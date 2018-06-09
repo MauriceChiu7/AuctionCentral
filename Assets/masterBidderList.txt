@@ -1,0 +1,7 @@
+Hari Kuduva, hk@uw.edu, harikuduva, 123 Elm Street, 4251234567, 100000000
+Baisal U, bu@uw.edu, baisalu, 124 Elm Street, 4251234568, 100000
+Shannon Weston, sw@uw.edu, shannonweston, 125 Elm Street, 4251234569, 100000
+Maurice Chiu, mc@uw.edu, mauricechiu, 126 Elm Street, 4251234561, 100
+No Bids, nb@uw.edu, nobids, 127 Elm Street, 7483726590, 100000
+Past Bids, pb@uw.edu, pastbids, 128 Elm Street, 3827584812, 100000
+Past Future, pf@uw.edu, pastfuture, 129 Elm Street, 937283710, 100000

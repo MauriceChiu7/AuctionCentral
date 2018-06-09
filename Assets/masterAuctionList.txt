@@ -1,0 +1,9 @@
+American Cancer Society, 2014-01-01 00:00, 2014-01-02 00:00, 1
+American Red Cross, 2015-02-02 00:00, 2015-02-03 00:00, 2
+Outlook on India, 2017-06-15 00:00, 2017-06-16 00:00, 3
+Isha Foundation, 2018-05-31 00:00, 2018-06-01 00:00, 4
+Friends of Youth, 2018-05-31 00:00, 2018-06-01 00:00, 5
+Global Partnerships, 2018-05-31 00:00, 2018-06-01 00:00, 6
+Junior League of Seattle, 2018-07-27 00:00, 2018-07-28 00:00, 7
+North Cascades Institute, 2018-07-28 00:00, 2018-07-29 00:00, 8
+Outdoors for All Foundation, 2018-07-29 00:00, 2018-07-30 00:00, 9

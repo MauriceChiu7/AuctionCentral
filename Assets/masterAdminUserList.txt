@@ -1,0 +1,4 @@
+Hari Kuduva, hari_admin, hari@uw.edu, 1 Elm Street, 1234567891
+Baisal U, baisal_admin, baisal@uw.edu, 2 Elm Street, 1234567892
+Shannon Weston, shannon_admin, shannon@uw.edu, 3 Elm Street, 1234567893
+Maurice Chiu, maurice_admin, maurice@uw.edu, 4 Elm Street, 1234567894

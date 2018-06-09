@@ -1,0 +1,9 @@
+American Cancer Society, acs@uw.edu, acs, 345 Elm Street, 2061234567
+American Red Cross, arc@uw.edu, arc, 1611 Freshour Circle, 2061234568
+Outlook on India, oon@uw.edu, oon, 4497 Plainfield Avenue, 2061234569
+Isha Foundation, isf@uw.edu, isf, 270 Single Street, 2061234561
+Friends of Youth, foy@uw.edu, foy, 1700 Saint Clair Street, 2012314567
+Global Partnerships, gpt@uw.edu, gpt, 3068 Oak Lane, 2224213546
+Junior League of Seattle, jls@uw.edu, jls, 2779 Carolina Avenue, 1457846953
+North Cascades Institute, nci@uw.edu, nci, 2952 Walnut Street, 7456215895
+Outdoors for All Foundation, oaf@uw.edu, oaf, 1145 Joy Lane, 7458965412
